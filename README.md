@@ -93,20 +93,3 @@ y por último agrega el atributo **allowSyntheticDefaultImports** en el tsconfig
   "allowSyntheticDefaultImports": true
 }
 ```
-
-**Suscríbete a mi canal** 😎
-
-https://www.youtube.com/c/LogiDev
-
-**Sígueme en mis redes:**
-
-👉Facebook : https://facebook.com/LogiDev25
-búscame como: @LogiDev25
-
-👉Instagram: https://instagram.com/jimyhdolores/
-búscame como: @jimyhdolores
-
-👉Twitter: https://twitter.com/jimyHDolores
-búscame como: @jimyHDolores
-
-👉LinkedIn:https://linkedin.com/in/jimyhuachodolores/
